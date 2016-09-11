@@ -1,2 +1,2 @@
 # calculator-tutorial-with-javascript
-gooogle search
+google search for calculator built with javascript. credit to kushsolitary. I will make my own soon.
