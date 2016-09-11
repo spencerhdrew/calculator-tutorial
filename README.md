@@ -1,2 +1,2 @@
-# calculator-tutorial
+# calculator-tutorial-with-javascript
 gooogle search
